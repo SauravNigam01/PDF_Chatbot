@@ -40,22 +40,6 @@ Final Answer
 ## 📁 Project Structure
 # PDF_Chatbot
 
-PDF Chatbot (RAG)/
-│
-├── app.py              # Streamlit UI
-├── graph.py            # LangGraph workflow
-├── ingest.py           # PDF processing + FAISS vector DB creation
-├── chat.py             # CLI chatbot (optional)
-├── check.py            # Debug script
-│
-├── docs/
-│   └── SauravnigamResume.pdf
-│
-├── vectorstore/
-│   ├── index.faiss
-│   └── index.pkl
-│
-├── README.md
-└── requirements.txt (optional)
+
 
 
